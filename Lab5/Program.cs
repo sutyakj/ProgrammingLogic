@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args) 
     
     {
-    //Step 3: Calling Derived Classes
+    //Step 3: Calling Derived Classes (I put this above the others because it made more sense to me.)
 
     Animal myAnimal = new Animal();
     Animal myCat = new Cat();
